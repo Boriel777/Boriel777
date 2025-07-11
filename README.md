@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Boriel777
-  I'm a Graphic Designer and Brand Specialist
-- 👀 I’m interested in Responsive Websites
-- 🌱 I’m currently learning HTML / CSS
+  I'm a Web- & Graphic Designer and Brand Specialist
+- 👀 I’m interested in Story driven Branding solutions that connect on a human level
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: office@boriel-designs.com
 
 <!---
