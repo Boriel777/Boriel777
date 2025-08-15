@@ -49,33 +49,20 @@
 
 <h3>📫 You can contact me here:</h3>
 <div align="left">
-  <table border="0" cellpadding="0" cellspacing="0">
-<tr>
-  <td>
-    <a href="mailto:office@boriel-designs.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="Gmail logo" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.instagram.com/borieldesigns" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="Instagram logo" />
-    </a>
-  </td>
-  <td>
-    <a href="https://discord.com/users/dalibor7997" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="Discord logo" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.behance.net/dalibordurbas1" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&style=for-the-badge" height="30" alt="Behance logo" />
-    </a>
-  </td>
-  <td>
-    <a href="https://www.linkedin.com/in/dalibor-durbas" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn logo" />
-    </a>
-  </td>
-</tr>
-</table>
+  <a href="mailto:office@boriel-designs.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="Gmail logo" />
+  </a>
+  <a href="https://www.instagram.com/borieldesigns">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="Instagram logo" />
+  </a>
+  <a href="https://discord.com/users/dalibor7997">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="Discord logo" />
+  </a>
+  <a href="https://www.behance.net/dalibordurbas1">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&style=for-the-badge" height="30" alt="Behance logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/dalibor-durbas">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn logo" />
+  </a>
 </div>
+
